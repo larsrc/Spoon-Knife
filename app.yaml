@@ -1,6 +1,7 @@
 application: SpoonKnifeFork
 version: 0.1
 runtime: java
+api_version: 1
 
 static_files:
   - include: /index.html
