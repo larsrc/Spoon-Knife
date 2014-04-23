@@ -6,5 +6,4 @@ threadsafe: true
 
 handlers:
 - url: /index.html
-  static_files:
-  - include: /index.html
+  static_files: index.html
