@@ -4,5 +4,9 @@ runtime: java
 api_version: 1
 threadsafe: true
 
+handlers:
+- url: /admin/*
+  login: admin
+
 static_files:
   - include: /index.html
