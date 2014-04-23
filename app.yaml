@@ -3,4 +3,4 @@ version: 0.1
 runtime: java
 
 static_files:
-	- include: /index.html
+  - include: /index.html
