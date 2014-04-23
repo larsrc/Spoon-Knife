@@ -5,8 +5,6 @@ api_version: 1
 threadsafe: true
 
 handlers:
-- url: /admin/*
-  login: admin
-
-static_files:
+- url: /index.html
+  static_files:
   - include: /index.html
